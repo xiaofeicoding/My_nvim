@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="CMakeWorkspace" PROJECT_DIR="$PROJECT_DIR$/OJ/16-Sequential_table">
+  <component name="CMakeWorkspace" PROJECT_DIR="$PROJECT_DIR$/16-Sequential_table">
     <contentRoot DIR="$PROJECT_DIR$" />
   </component>
 </project>
